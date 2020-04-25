@@ -1,1 +1,1 @@
-{"data":{"allSite":{"edges":[{"node":{"siteMetadata":{"name":"ServingForTwo","social":[{"url":"https://instagram.com/serving4two","name":"instagram"},{"url":"https://facebook.com/serving4two","name":"facebook"}]}}}]},"allMdx":{"edges":[{"node":{"frontmatter":{"date":"2019-04-22T00:00:00.000Z"}}}]}}}
+{"data":{"allSite":{"edges":[{"node":{"siteMetadata":{"name":"ServingForTwo","social":[{"url":"#","name":"facebook"}]}}}]},"allMdx":{"edges":[{"node":{"frontmatter":{"date":"2019-04-22T00:00:00.000Z"}}}]}}}

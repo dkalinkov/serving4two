@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Serving For Two - Welcome to our restaurant review blog]]></title><description><![CDATA[Serving For Two is a restaurant review blog. We travel the world and check out the local cuisine, then we write about it.]]></description><link>https://serving4two.com</link><image><url>https://serving4two.com/icons/icon-512x512.png</url><title>Serving For Two - Welcome to our restaurant review blog</title><link>https://serving4two.com</link></image><generator>GatsbyJS</generator><lastBuildDate>Thu, 23 Apr 2020 19:54:18 GMT</lastBuildDate><atom:link href="https://serving4two.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[A brunch in KALA, Berlin]]></title><description><![CDATA[A standard Berlin-type-of-alternative place, with minimalistic design, a sense of authenticity and close attention to sustainability and eco-friendliness.]]></description><link>https://serving4two.com/blunch-in-kala-berlin</link><guid isPermaLink="false">https://serving4two.com/blunch-in-kala-berlin</guid><dc:creator><![CDATA[Nadezhda Yankulska]]></dc:creator><pubDate>Mon, 22 Apr 2019 00:00:00 GMT</pubDate><content:encoded>function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i &lt; arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Serving For Two - Welcome to our restaurant review blog]]></title><description><![CDATA[Serving For Two is a restaurant review blog. We travel the world and check out the local cuisine, then we write about it.]]></description><link>https://serving4two.com</link><image><url>https://serving4two.com/icons/icon-512x512.png</url><title>Serving For Two - Welcome to our restaurant review blog</title><link>https://serving4two.com</link></image><generator>GatsbyJS</generator><lastBuildDate>Sat, 25 Apr 2020 21:17:42 GMT</lastBuildDate><atom:link href="https://serving4two.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[A Brunch in KALA, Berlin]]></title><description><![CDATA[A standard Berlin-type-of-alternative place, with minimalistic design, a sense of authenticity and close attention to sustainability and eco-friendliness.]]></description><link>https://serving4two.com/blunch-in-kala-berlin</link><guid isPermaLink="false">https://serving4two.com/blunch-in-kala-berlin</guid><dc:creator><![CDATA[Nadezhda Yankulska]]></dc:creator><pubDate>Mon, 22 Apr 2019 00:00:00 GMT</pubDate><content:encoded>function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i &lt; arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
 
 function _objectWithoutProperties(source, excluded) { if (source == null) return {}; var target = _objectWithoutPropertiesLoose(source, excluded); var key, i; if (Object.getOwnPropertySymbols) { var sourceSymbolKeys = Object.getOwnPropertySymbols(source); for (i = 0; i &lt; sourceSymbolKeys.length; i++) { key = sourceSymbolKeys[i]; if (excluded.indexOf(key) &gt;= 0) continue; if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue; target[key] = source[key]; } } return target; }
 
@@ -6,7 +6,7 @@ function _objectWithoutPropertiesLoose(source, excluded) { if (source == null) r
 
 /* @jsx mdx */
 var _frontmatter = {
-  &quot;title&quot;: &quot;A brunch in KALA, Berlin&quot;,
+  &quot;title&quot;: &quot;A Brunch in KALA, Berlin&quot;,
   &quot;slug&quot;: &quot;/blunch-in-kala-berlin&quot;,
   &quot;author&quot;: &quot;Nadezhda Yankulska&quot;,
   &quot;date&quot;: &quot;2019-04-22T00:00:00.000Z&quot;,
@@ -89,7 +89,7 @@ return function MDXContent(_ref) {
       &quot;top&quot;: &quot;0&quot;,
       &quot;left&quot;: &quot;0&quot;
     }
-  })), &quot;\n      &quot;), &quot;\n    &quot;)), mdx(&quot;p&quot;, null, &quot;The atmosphere wouldn\u2019t have been as captivating, if it weren\u2019t for the small details \u2013 such as the superb Flat White and the modern ceramic dinnerware. The \u201CKlassiker\u201D breakfasts were just as good \u2013 we went for the \u201CMixed Breakfast\u201D one (this is what you would call a standard German \u201CBrotzeit\u201D breakfast, which includes bits of fruits, vegetables, cheeses, spreads, some dried meat and fresh bread). It\u2019s satisfying, yet not heavy; healthy, yet not tasteless. Although it may come up as a bit overpriced having in mind the ingredients and the portion size, the overall setting was worth it. Should we even mention where we went for our second morning in Berlin?&quot;), mdx(&quot;div&quot;, {
+  })), &quot;\n      &quot;), &quot;\n    &quot;)), mdx(&quot;p&quot;, null, &quot;The atmosphere wouldn\u2019t have been as captivating, if it weren\u2019t for the small details \u2013 such as the superb Flat White and the modern ceramic dinnerware. The \u201CKlassiker\u201D breakfasts were just as good \u2013 we went for the \u201CMixed Breakfast\u201D one (this is what you would call a standard German \u201CBrotzeit\u201D breakfast, which includes bits of fruits, vegetables, cheeses, spreads, some dried meat and fresh bread). It\u2019s satisfying, yet not heavy; healthy, yet not tasteless. Although it may come up as a bit overpriced having in mind the ingredients and the portion size, the overall setting was worth it. Should we even mention where we went for our second morning in Berlin? And yes, we got the pancakes.&quot;), mdx(&quot;div&quot;, {
     &quot;className&quot;: &quot;Image__Small&quot;
   }, &quot;\n  &quot;, mdx(&quot;span&quot;, _extends({
     parentName: &quot;div&quot;
@@ -100,18 +100,18 @@ return function MDXContent(_ref) {
       &quot;display&quot;: &quot;block&quot;,
       &quot;marginLeft&quot;: &quot;auto&quot;,
       &quot;marginRight&quot;: &quot;auto&quot;,
-      &quot;maxWidth&quot;: &quot;4000px&quot;
+      &quot;maxWidth&quot;: &quot;2000px&quot;
     }
   }), &quot;\n      &quot;, mdx(&quot;span&quot;, _extends({
     parentName: &quot;span&quot;
   }, {
     &quot;className&quot;: &quot;gatsby-resp-image-background-image&quot;,
     &quot;style&quot;: {
-      &quot;paddingBottom&quot;: &quot;75%&quot;,
+      &quot;paddingBottom&quot;: &quot;80%&quot;,
       &quot;position&quot;: &quot;relative&quot;,
       &quot;bottom&quot;: &quot;0&quot;,
       &quot;left&quot;: &quot;0&quot;,
-      &quot;backgroundImage&quot;: &quot;url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAADBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABYVgg8LpVn//EABwQAAICAgMAAAAAAAAAAAAAAAECABIDERMhIv/aAAgBAQABBQJ+gxBmRNO3pa0nIs//xAAVEQEBAAAAAAAAAAAAAAAAAAAAIf/aAAgBAwEBPwFX/8QAFREBAQAAAAAAAAAAAAAAAAAAACH/2gAIAQIBAT8BR//EABsQAQACAgMAAAAAAAAAAAAAAAEAERAiIzGB/9oACAEBAAY/Aiu5sCR0fGVOTH//xAAbEAEAAwADAQAAAAAAAAAAAAABABEhMUGRof/aAAgBAQABPyEYmtvsggKnblaKemi5XXvEAmh6twp5+T//2gAMAwEAAgADAAAAENAv/8QAGREAAgMBAAAAAAAAAAAAAAAAAAERITFx/9oACAEDAQE/EG1F6cH/xAAZEQACAwEAAAAAAAAAAAAAAAAAARExQVH/2gAIAQIBAT8QSeUR0f/EABsQAQEAAwEBAQAAAAAAAAAAAAERACExQVHw/9oACAEBAAE/EOgSqRH6D3FH04cfb4zcMFkCaAJ2fuZoIHBR3GmzmMthpjQ8hwWRcQLt7VrP/9k=&apos;)&quot;,
+      &quot;backgroundImage&quot;: &quot;url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABQABBv/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAF7ntalKm4f/8QAGxAAAQQDAAAAAAAAAAAAAAAAAQACAxESIzP/2gAIAQEAAQUCU3dgsPvKMal//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEx/9oACAEDAQE/AcV//8QAFhEBAQEAAAAAAAAAAAAAAAAAABIx/9oACAECAQE/AdS//8QAHRAAAQIHAAAAAAAAAAAAAAAAAAERAhAhMTJBUf/aAAgBAQAGPwIV9qZlLELcl//EABwQAQADAAIDAAAAAAAAAAAAAAEAETEhQVGBkf/aAAgBAQABPyHm84jS1ZhDVAF9kyafJ0L0gHgn/9oADAMBAAIAAwAAABBIL//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/EC3/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8QsMP/xAAbEAEBAAIDAQAAAAAAAAAAAAABEQAhQVFhof/aAAgBAQABPxC6493eC9NnImXgzAF+4zdotePTgwOoi1qYMLbwz//Z&apos;)&quot;,
       &quot;backgroundSize&quot;: &quot;cover&quot;,
       &quot;display&quot;: &quot;block&quot;
     }
@@ -120,20 +120,20 @@ return function MDXContent(_ref) {
   }, &quot;\n        &quot;, mdx(&quot;source&quot;, _extends({
     parentName: &quot;picture&quot;
   }, {
-    &quot;srcSet&quot;: [&quot;/static/f3813557f6131795974649a6f8f18072/a3bc4/image2.webp 2500w&quot;, &quot;/static/f3813557f6131795974649a6f8f18072/c3c46/image2.webp 4000w&quot;],
-    &quot;sizes&quot;: &quot;(max-width: 4000px) 100vw, 4000px&quot;,
+    &quot;srcSet&quot;: [&quot;/static/eb4eb8fb83176ffb01af2ca28228beb1/56b60/image2.webp 2000w&quot;],
+    &quot;sizes&quot;: &quot;(max-width: 2000px) 100vw, 2000px&quot;,
     &quot;type&quot;: &quot;image/webp&quot;
   })), &quot;\n        &quot;, mdx(&quot;source&quot;, _extends({
     parentName: &quot;picture&quot;
   }, {
-    &quot;srcSet&quot;: [&quot;/static/f3813557f6131795974649a6f8f18072/44ecf/image2.jpg 2500w&quot;, &quot;/static/f3813557f6131795974649a6f8f18072/055ea/image2.jpg 4000w&quot;],
-    &quot;sizes&quot;: &quot;(max-width: 4000px) 100vw, 4000px&quot;,
+    &quot;srcSet&quot;: [&quot;/static/eb4eb8fb83176ffb01af2ca28228beb1/9bea7/image2.jpg 2000w&quot;],
+    &quot;sizes&quot;: &quot;(max-width: 2000px) 100vw, 2000px&quot;,
     &quot;type&quot;: &quot;image/jpeg&quot;
   })), &quot;\n        &quot;, mdx(&quot;img&quot;, _extends({
     parentName: &quot;picture&quot;
   }, {
     &quot;className&quot;: &quot;gatsby-resp-image-image&quot;,
-    &quot;src&quot;: &quot;/static/f3813557f6131795974649a6f8f18072/055ea/image2.jpg&quot;,
+    &quot;src&quot;: &quot;/static/eb4eb8fb83176ffb01af2ca28228beb1/9bea7/image2.jpg&quot;,
     &quot;alt&quot;: &quot;American pancakes at KALA&quot;,
     &quot;title&quot;: &quot;American pancakes at KALA&quot;,
     &quot;loading&quot;: &quot;lazy&quot;,
