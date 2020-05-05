@@ -1,4 +1,161 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Serving For Two - Welcome to our restaurant review blog]]></title><description><![CDATA[Serving For Two is a restaurant review blog. We travel the world and check out the local cuisine, then we write about it.]]></description><link>https://serving4two.com</link><image><url>https://serving4two.com/icons/icon-512x512.png</url><title>Serving For Two - Welcome to our restaurant review blog</title><link>https://serving4two.com</link></image><generator>GatsbyJS</generator><lastBuildDate>Sun, 26 Apr 2020 19:00:57 GMT</lastBuildDate><atom:link href="https://serving4two.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[A Brunch in KALA, Berlin]]></title><description><![CDATA[A standard Berlin-type-of-alternative place, with minimalistic design, a sense of authenticity and close attention to sustainability and eco-friendliness.]]></description><link>https://serving4two.com/blunch-in-kala-berlin</link><guid isPermaLink="false">https://serving4two.com/blunch-in-kala-berlin</guid><dc:creator><![CDATA[Nadezhda Yankulska]]></dc:creator><pubDate>Wed, 22 Apr 2020 00:00:00 GMT</pubDate><content:encoded>function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i &lt; arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Serving For Two - Welcome to our restaurant review blog]]></title><description><![CDATA[Serving For Two is a restaurant review blog. We travel the world and check out the local cuisine, then we write about it.]]></description><link>https://serving4two.com</link><image><url>https://serving4two.com/icons/icon-512x512.png</url><title>Serving For Two - Welcome to our restaurant review blog</title><link>https://serving4two.com</link></image><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 May 2020 10:57:10 GMT</lastBuildDate><atom:link href="https://serving4two.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Coco-inspired Dinner in Takoteka, Sofia]]></title><description><![CDATA[Hidden behind the Bilkova bar, the outsides of Takoteka show no signs of what expects you inside. If you’ve enjoyed the Disney movie Coco (2017), then you will definitely like the atmosphere in Takoteka.]]></description><link>https://serving4two.com/coco-inspired-takoteka-dinner-sofia</link><guid isPermaLink="false">https://serving4two.com/coco-inspired-takoteka-dinner-sofia</guid><dc:creator><![CDATA[Nadezhda Yankulska, Dimitar Kalinkov]]></dc:creator><pubDate>Tue, 05 May 2020 00:00:00 GMT</pubDate><content:encoded>function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i &lt; arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+
+function _objectWithoutProperties(source, excluded) { if (source == null) return {}; var target = _objectWithoutPropertiesLoose(source, excluded); var key, i; if (Object.getOwnPropertySymbols) { var sourceSymbolKeys = Object.getOwnPropertySymbols(source); for (i = 0; i &lt; sourceSymbolKeys.length; i++) { key = sourceSymbolKeys[i]; if (excluded.indexOf(key) &gt;= 0) continue; if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue; target[key] = source[key]; } } return target; }
+
+function _objectWithoutPropertiesLoose(source, excluded) { if (source == null) return {}; var target = {}; var sourceKeys = Object.keys(source); var key, i; for (i = 0; i &lt; sourceKeys.length; i++) { key = sourceKeys[i]; if (excluded.indexOf(key) &gt;= 0) continue; target[key] = source[key]; } return target; }
+
+/* @jsx mdx */
+var _frontmatter = {
+  &quot;title&quot;: &quot;Coco-inspired Dinner in Takoteka, Sofia&quot;,
+  &quot;slug&quot;: &quot;/coco-inspired-takoteka-dinner-sofia&quot;,
+  &quot;author&quot;: &quot;Nadezhda Yankulska, Dimitar Kalinkov&quot;,
+  &quot;date&quot;: &quot;2020-05-05T00:00:00.000Z&quot;,
+  &quot;hero&quot;: &quot;./images/hero.png&quot;,
+  &quot;excerpt&quot;: &quot;Hidden behind the Bilkova bar, the outsides of Takoteka show no signs of what expects you inside. If you’ve enjoyed the Disney movie Coco (2017), then you will definitely like the atmosphere in Takoteka.&quot;
+};
+
+var makeShortcode = function makeShortcode(name) {
+  return function MDXDefaultShortcode(props) {
+    console.warn(&quot;Component &quot; + name + &quot; was not imported, exported, or provided by MDXProvider as global scope&quot;);
+    return mdx(&quot;div&quot;, props);
+  };
+};
+
+var layoutProps = {
+  _frontmatter: _frontmatter
+};
+var MDXLayout = &quot;wrapper&quot;;
+return function MDXContent(_ref) {
+  var components = _ref.components,
+      props = _objectWithoutProperties(_ref, [&quot;components&quot;]);
+
+  return mdx(MDXLayout, _extends({}, layoutProps, props, {
+    components: components,
+    mdxType: &quot;MDXLayout&quot;
+  }), mdx(&quot;p&quot;, null, &quot;Tsar Ivan Shishman street is for sure one of the streets in Sofia with lots of tiny &amp; trendy bars, restaurants, and take-outs. Hidden behind the Bilkova bar, the outsides of Takoteka show no signs of what expects you inside. If you\u2019ve enjoyed the Disney movie Coco (2017), then you will definitely like the atmosphere in Takoteka. It looks like a really colorful little Mexican house, just enough to fit one big family. The little details that caught our attention were the salt and pepper bottles (that looked like cacti), the napkin holders coming straight from D\xEDa de Muertos (The Mexican Festival of the Dead), and the vibrant pictures on the walls.&quot;), mdx(&quot;p&quot;, null, &quot;Although the atmosphere is so vivid, the small space and the open kitchen really brings comfort and a sense of relaxation. The staff were super friendly both of the times we visited and quite aware of all ingredients and dishes from the menu. We trusted our waiter for the drinks both times \u2013 although the Margarita Clasico was a hit, the lemonade with Jamaica Hibiscus definitely outdid it. When it comes to the food, the homemade guacamole with fresh nachos was just out-of-this-world good, although it lacks a bit of spiciness (according to Dimitar). &quot;), mdx(&quot;div&quot;, {
+    &quot;className&quot;: &quot;Image__Small&quot;
+  }, &quot;\n  &quot;, mdx(&quot;span&quot;, _extends({
+    parentName: &quot;div&quot;
+  }, {
+    &quot;className&quot;: &quot;gatsby-resp-image-wrapper&quot;,
+    &quot;style&quot;: {
+      &quot;position&quot;: &quot;relative&quot;,
+      &quot;display&quot;: &quot;block&quot;,
+      &quot;marginLeft&quot;: &quot;auto&quot;,
+      &quot;marginRight&quot;: &quot;auto&quot;,
+      &quot;maxWidth&quot;: &quot;4032px&quot;
+    }
+  }), &quot;\n      &quot;, mdx(&quot;span&quot;, _extends({
+    parentName: &quot;span&quot;
+  }, {
+    &quot;className&quot;: &quot;gatsby-resp-image-background-image&quot;,
+    &quot;style&quot;: {
+      &quot;paddingBottom&quot;: &quot;75%&quot;,
+      &quot;position&quot;: &quot;relative&quot;,
+      &quot;bottom&quot;: &quot;0&quot;,
+      &quot;left&quot;: &quot;0&quot;,
+      &quot;backgroundImage&quot;: &quot;url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAwQA/8QAFgEBAQEAAAAAAAAAAAAAAAAAAwAB/9oADAMBAAIQAxAAAAGRLQBLsW2//8QAGhABAAIDAQAAAAAAAAAAAAAAAgESAAMRE//aAAgBAQABBQK88mL5rIOtqpq1Hpn/xAAXEQEBAQEAAAAAAAAAAAAAAAABABES/9oACAEDAQE/AURy5v/EABgRAQEAAwAAAAAAAAAAAAAAAAEAAhES/9oACAECAQE/ATMTd3f/xAAcEAABAwUAAAAAAAAAAAAAAAABAAISECExQaH/2gAIAQEABj8CEmKI2gH5rcs6v//EABwQAQADAAIDAAAAAAAAAAAAAAEAESExUWFxgf/aAAgBAQABPyEew9hMdqckJkITYBa9DV1C2Br4QQBYPEf/2gAMAwEAAgADAAAAEHwP/8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQMBAT8QIQ//xAAaEQACAgMAAAAAAAAAAAAAAAAAAREhgdHw/9oACAECAQE/EFJ6yT6dH//EAB4QAQACAgEFAAAAAAAAAAAAAAEAESExgUFhcbHx/9oACAEBAAE/EKqmcUx4iAwB0Q+wXwUDDJK9Zd4s7kGEFsVGuFYDKAbvVT//2Q==&apos;)&quot;,
+      &quot;backgroundSize&quot;: &quot;cover&quot;,
+      &quot;display&quot;: &quot;block&quot;
+    }
+  })), &quot;\n  &quot;, mdx(&quot;picture&quot;, {
+    parentName: &quot;span&quot;
+  }, &quot;\n        &quot;, mdx(&quot;source&quot;, _extends({
+    parentName: &quot;picture&quot;
+  }, {
+    &quot;srcSet&quot;: [&quot;/static/a8c371e6687548dc3017cb764a684fe5/a3bc4/guacamole.webp 2500w&quot;, &quot;/static/a8c371e6687548dc3017cb764a684fe5/68cee/guacamole.webp 4032w&quot;],
+    &quot;sizes&quot;: &quot;(max-width: 4032px) 100vw, 4032px&quot;,
+    &quot;type&quot;: &quot;image/webp&quot;
+  })), &quot;\n        &quot;, mdx(&quot;source&quot;, _extends({
+    parentName: &quot;picture&quot;
+  }, {
+    &quot;srcSet&quot;: [&quot;/static/a8c371e6687548dc3017cb764a684fe5/44ecf/guacamole.jpg 2500w&quot;, &quot;/static/a8c371e6687548dc3017cb764a684fe5/657cd/guacamole.jpg 4032w&quot;],
+    &quot;sizes&quot;: &quot;(max-width: 4032px) 100vw, 4032px&quot;,
+    &quot;type&quot;: &quot;image/jpeg&quot;
+  })), &quot;\n        &quot;, mdx(&quot;img&quot;, _extends({
+    parentName: &quot;picture&quot;
+  }, {
+    &quot;className&quot;: &quot;gatsby-resp-image-image&quot;,
+    &quot;src&quot;: &quot;/static/a8c371e6687548dc3017cb764a684fe5/657cd/guacamole.jpg&quot;,
+    &quot;alt&quot;: &quot;The guacamole at Takoteka&quot;,
+    &quot;title&quot;: &quot;The guacamole at Takoteka&quot;,
+    &quot;loading&quot;: &quot;lazy&quot;,
+    &quot;style&quot;: {
+      &quot;width&quot;: &quot;100%&quot;,
+      &quot;height&quot;: &quot;100%&quot;,
+      &quot;margin&quot;: &quot;0&quot;,
+      &quot;verticalAlign&quot;: &quot;middle&quot;,
+      &quot;position&quot;: &quot;absolute&quot;,
+      &quot;top&quot;: &quot;0&quot;,
+      &quot;left&quot;: &quot;0&quot;
+    }
+  })), &quot;\n      &quot;), &quot;\n    &quot;)), mdx(&quot;p&quot;, null, &quot;For the main dish, we went for the Beef Fajita with veggies that came on the table in a sizzling pan and tortillas on the side. Dimitar enjoyed most of it, since I am not a big fan of beef and, on top of that, he got to make a burrito by himself. We have tried the chicken quesadilla on another visit, but frankly, apart from the good presentation, it wasn\u2019t anything special. We both liked the 3 Chicken Enchiladas sooo much, that we had to flip a coin on who gets the third one. They came dipped in a very rich tomato sauce with cilantro and herbs, and had cheese on top. The filling was also quite juicy and had fresh veggies and chicken with just the right amount of spiciness.&quot;), mdx(&quot;div&quot;, {
+    &quot;className&quot;: &quot;Image__Small&quot;
+  }, &quot;\n  &quot;, mdx(&quot;span&quot;, _extends({
+    parentName: &quot;div&quot;
+  }, {
+    &quot;className&quot;: &quot;gatsby-resp-image-wrapper&quot;,
+    &quot;style&quot;: {
+      &quot;position&quot;: &quot;relative&quot;,
+      &quot;display&quot;: &quot;block&quot;,
+      &quot;marginLeft&quot;: &quot;auto&quot;,
+      &quot;marginRight&quot;: &quot;auto&quot;,
+      &quot;maxWidth&quot;: &quot;2000px&quot;
+    }
+  }), &quot;\n      &quot;, mdx(&quot;span&quot;, _extends({
+    parentName: &quot;span&quot;
+  }, {
+    &quot;className&quot;: &quot;gatsby-resp-image-background-image&quot;,
+    &quot;style&quot;: {
+      &quot;paddingBottom&quot;: &quot;80%&quot;,
+      &quot;position&quot;: &quot;relative&quot;,
+      &quot;bottom&quot;: &quot;0&quot;,
+      &quot;left&quot;: &quot;0&quot;,
+      &quot;backgroundImage&quot;: &quot;url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAUAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAHoqpQFaaI//8QAGRABAAMBAQAAAAAAAAAAAAAAAgEDEgAR/9oACAEBAAEFArUvTZngtm4zNYp0Qcx//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAECH/2gAIAQIBAT8Bp//EABoQAAMAAwEAAAAAAAAAAAAAAAABEQIhImH/2gAIAQEABj8C0ztsqGsVTvCeUiUP/8QAGhABAAMBAQEAAAAAAAAAAAAAAQARITFBUf/aAAgBAQABPyEruAPuQ7F9buGPJmthBDkcgGYeE//aAAwDAQACAAMAAAAQiy//xAAXEQADAQAAAAAAAAAAAAAAAAAAAREh/9oACAEDAQE/EFJoz//EABcRAQEBAQAAAAAAAAAAAAAAAAERACH/2gAIAQIBAT8QSoYs7v/EABoQAQEAAwEBAAAAAAAAAAAAAAERACFBMdH/2gAIAQEAAT8QkcdEiu1Mk2eKTWg8+ZXPlcMCgUGLuw1l16tig8ozI3C6OGf/2Q==&apos;)&quot;,
+      &quot;backgroundSize&quot;: &quot;cover&quot;,
+      &quot;display&quot;: &quot;block&quot;
+    }
+  })), &quot;\n  &quot;, mdx(&quot;picture&quot;, {
+    parentName: &quot;span&quot;
+  }, &quot;\n        &quot;, mdx(&quot;source&quot;, _extends({
+    parentName: &quot;picture&quot;
+  }, {
+    &quot;srcSet&quot;: [&quot;/static/8fb491ea1e5901d6b3a812a2595c3969/56b60/food-collage.webp 2000w&quot;],
+    &quot;sizes&quot;: &quot;(max-width: 2000px) 100vw, 2000px&quot;,
+    &quot;type&quot;: &quot;image/webp&quot;
+  })), &quot;\n        &quot;, mdx(&quot;source&quot;, _extends({
+    parentName: &quot;picture&quot;
+  }, {
+    &quot;srcSet&quot;: [&quot;/static/8fb491ea1e5901d6b3a812a2595c3969/9bea7/food-collage.jpg 2000w&quot;],
+    &quot;sizes&quot;: &quot;(max-width: 2000px) 100vw, 2000px&quot;,
+    &quot;type&quot;: &quot;image/jpeg&quot;
+  })), &quot;\n        &quot;, mdx(&quot;img&quot;, _extends({
+    parentName: &quot;picture&quot;
+  }, {
+    &quot;className&quot;: &quot;gatsby-resp-image-image&quot;,
+    &quot;src&quot;: &quot;/static/8fb491ea1e5901d6b3a812a2595c3969/9bea7/food-collage.jpg&quot;,
+    &quot;alt&quot;: &quot;The guacamole at Takoteka&quot;,
+    &quot;title&quot;: &quot;The guacamole at Takoteka&quot;,
+    &quot;loading&quot;: &quot;lazy&quot;,
+    &quot;style&quot;: {
+      &quot;width&quot;: &quot;100%&quot;,
+      &quot;height&quot;: &quot;100%&quot;,
+      &quot;margin&quot;: &quot;0&quot;,
+      &quot;verticalAlign&quot;: &quot;middle&quot;,
+      &quot;position&quot;: &quot;absolute&quot;,
+      &quot;top&quot;: &quot;0&quot;,
+      &quot;left&quot;: &quot;0&quot;
+    }
+  })), &quot;\n      &quot;), &quot;\n    &quot;)), mdx(&quot;p&quot;, null, &quot;*The three images above are owned by Takoteka&quot;), mdx(&quot;p&quot;, null, &quot;Overall, Takoteka is a place worth visiting (and revisiting) if you are a fan of traditional Mexican cuisine, and you don\u2019t feel like going to a 2-storey busy restaurant on Vitosha street. Don\u2019t get fooled, though \u2013 it might be unpretentious and small, but it still keeps a standard price range for downtown Sofia. Also, with so much good stuff on the menu, it\u2019s really hard to save money when visiting Takoteka. &quot;), mdx(&quot;p&quot;, null, mdx(&quot;a&quot;, _extends({
+    parentName: &quot;p&quot;
+  }, {
+    &quot;href&quot;: &quot;https://goo.gl/maps/AYAM5bjkZq1DtyMPA&quot;,
+    &quot;target&quot;: &quot;_blank&quot;,
+    &quot;rel&quot;: &quot;noreferrer&quot;
+  }), &quot;Click to find Takoteka on Google Maps.&quot;)));
+}
+;
+MDXContent.isMDXComponent = true;</content:encoded></item><item><title><![CDATA[A Brunch in KALA, Berlin]]></title><description><![CDATA[A standard Berlin-type-of-alternative place, with minimalistic design, a sense of authenticity and close attention to sustainability and eco-friendliness.]]></description><link>https://serving4two.com/brunch-in-kala-berlin</link><guid isPermaLink="false">https://serving4two.com/brunch-in-kala-berlin</guid><dc:creator><![CDATA[Nadezhda Yankulska]]></dc:creator><pubDate>Wed, 22 Apr 2020 00:00:00 GMT</pubDate><content:encoded>function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i &lt; arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
 
 function _objectWithoutProperties(source, excluded) { if (source == null) return {}; var target = _objectWithoutPropertiesLoose(source, excluded); var key, i; if (Object.getOwnPropertySymbols) { var sourceSymbolKeys = Object.getOwnPropertySymbols(source); for (i = 0; i &lt; sourceSymbolKeys.length; i++) { key = sourceSymbolKeys[i]; if (excluded.indexOf(key) &gt;= 0) continue; if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue; target[key] = source[key]; } } return target; }
 
@@ -7,7 +164,7 @@ function _objectWithoutPropertiesLoose(source, excluded) { if (source == null) r
 /* @jsx mdx */
 var _frontmatter = {
   &quot;title&quot;: &quot;A Brunch in KALA, Berlin&quot;,
-  &quot;slug&quot;: &quot;/blunch-in-kala-berlin&quot;,
+  &quot;slug&quot;: &quot;/brunch-in-kala-berlin&quot;,
   &quot;author&quot;: &quot;Nadezhda Yankulska&quot;,
   &quot;date&quot;: &quot;2020-04-22T00:00:00.000Z&quot;,
   &quot;hero&quot;: &quot;./images/hero.jpg&quot;,
