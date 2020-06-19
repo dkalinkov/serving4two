@@ -1,4 +1,161 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Serving For Two - Welcome to our restaurant review blog]]></title><description><![CDATA[Serving For Two is a restaurant review blog. We travel the world and check out the local cuisine, then we write about it.]]></description><link>https://serving4two.com</link><image><url>https://serving4two.com/icons/icon-512x512.png</url><title>Serving For Two - Welcome to our restaurant review blog</title><link>https://serving4two.com</link></image><generator>GatsbyJS</generator><lastBuildDate>Tue, 05 May 2020 10:57:10 GMT</lastBuildDate><atom:link href="https://serving4two.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Coco-inspired Dinner in Takoteka, Sofia]]></title><description><![CDATA[Hidden behind the Bilkova bar, the outsides of Takoteka show no signs of what expects you inside. If you’ve enjoyed the Disney movie Coco (2017), then you will definitely like the atmosphere in Takoteka.]]></description><link>https://serving4two.com/coco-inspired-takoteka-dinner-sofia</link><guid isPermaLink="false">https://serving4two.com/coco-inspired-takoteka-dinner-sofia</guid><dc:creator><![CDATA[Nadezhda Yankulska, Dimitar Kalinkov]]></dc:creator><pubDate>Tue, 05 May 2020 00:00:00 GMT</pubDate><content:encoded>function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i &lt; arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Serving For Two - Welcome to our restaurant review blog]]></title><description><![CDATA[Serving For Two is a restaurant review blog. We travel the world and check out the local cuisine, then we write about it.]]></description><link>https://serving4two.com</link><image><url>https://serving4two.com/icons/icon-512x512.png</url><title>Serving For Two - Welcome to our restaurant review blog</title><link>https://serving4two.com</link></image><generator>GatsbyJS</generator><lastBuildDate>Fri, 19 Jun 2020 20:49:33 GMT</lastBuildDate><atom:link href="https://serving4two.com/rss.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[“The Old Lady” stayed behind]]></title><description><![CDATA[Situated on one of the most prestigious streets of Sofia is a place called The Old Lady (“Старата Госпожа” in Bulgarian). It is one of the many restaurants  in the city fostering the recently emerging brunch culture in Bulgaria.]]></description><link>https://serving4two.com/the-old-lady-stayed-behind-sofia</link><guid isPermaLink="false">https://serving4two.com/the-old-lady-stayed-behind-sofia</guid><dc:creator><![CDATA[Dimitar Kalinkov, Nadezhda Yankulska]]></dc:creator><pubDate>Fri, 19 Jun 2020 00:00:00 GMT</pubDate><content:encoded>function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i &lt; arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
+
+function _objectWithoutProperties(source, excluded) { if (source == null) return {}; var target = _objectWithoutPropertiesLoose(source, excluded); var key, i; if (Object.getOwnPropertySymbols) { var sourceSymbolKeys = Object.getOwnPropertySymbols(source); for (i = 0; i &lt; sourceSymbolKeys.length; i++) { key = sourceSymbolKeys[i]; if (excluded.indexOf(key) &gt;= 0) continue; if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue; target[key] = source[key]; } } return target; }
+
+function _objectWithoutPropertiesLoose(source, excluded) { if (source == null) return {}; var target = {}; var sourceKeys = Object.keys(source); var key, i; for (i = 0; i &lt; sourceKeys.length; i++) { key = sourceKeys[i]; if (excluded.indexOf(key) &gt;= 0) continue; target[key] = source[key]; } return target; }
+
+/* @jsx mdx */
+var _frontmatter = {
+  &quot;title&quot;: &quot;“The Old Lady” stayed behind&quot;,
+  &quot;slug&quot;: &quot;/the-old-lady-stayed-behind-sofia&quot;,
+  &quot;author&quot;: &quot;Dimitar Kalinkov, Nadezhda Yankulska&quot;,
+  &quot;date&quot;: &quot;2020-06-19T00:00:00.000Z&quot;,
+  &quot;hero&quot;: &quot;./images/hero.png&quot;,
+  &quot;excerpt&quot;: &quot;Situated on one of the most prestigious streets of Sofia is a place called The Old Lady (“Старата Госпожа” in Bulgarian). It is one of the many restaurants  in the city fostering the recently emerging brunch culture in Bulgaria.&quot;
+};
+
+var makeShortcode = function makeShortcode(name) {
+  return function MDXDefaultShortcode(props) {
+    console.warn(&quot;Component &quot; + name + &quot; was not imported, exported, or provided by MDXProvider as global scope&quot;);
+    return mdx(&quot;div&quot;, props);
+  };
+};
+
+var layoutProps = {
+  _frontmatter: _frontmatter
+};
+var MDXLayout = &quot;wrapper&quot;;
+return function MDXContent(_ref) {
+  var components = _ref.components,
+      props = _objectWithoutProperties(_ref, [&quot;components&quot;]);
+
+  return mdx(MDXLayout, _extends({}, layoutProps, props, {
+    components: components,
+    mdxType: &quot;MDXLayout&quot;
+  }), mdx(&quot;p&quot;, null, &quot;Situated on one of the most prestigious streets of Sofia is a place called The Old Lady (\u201C\u0421\u0442\u0430\u0440\u0430\u0442\u0430 \u0413\u043E\u0441\u043F\u043E\u0436\u0430\u201D in Bulgarian). It is one of the many restaurants  in the city fostering the recently emerging brunch culture in Bulgaria. &quot;), mdx(&quot;p&quot;, null, &quot;When you first enter the joint, you feel the trendy atmosphere coming from the interior design. Although the place is quite small, the tall ceiling makes it seem a lot more spacious than it actually is. The kitchen, situated on a second floor and right above the bar, can be seen through a window wall, which definitely gives a lot more openness and honest feeling to the cooking process. The interior walls are decorated with beer and wine bottles on one side and hip posters on the other, which combined with the laid-back approach to the menu, appealed to younger customers (as evidently by the crowd when we visited).&quot;), mdx(&quot;div&quot;, {
+    &quot;className&quot;: &quot;Image__Small&quot;
+  }, &quot;\n  &quot;, mdx(&quot;span&quot;, _extends({
+    parentName: &quot;div&quot;
+  }, {
+    &quot;className&quot;: &quot;gatsby-resp-image-wrapper&quot;,
+    &quot;style&quot;: {
+      &quot;position&quot;: &quot;relative&quot;,
+      &quot;display&quot;: &quot;block&quot;,
+      &quot;marginLeft&quot;: &quot;auto&quot;,
+      &quot;marginRight&quot;: &quot;auto&quot;,
+      &quot;maxWidth&quot;: &quot;2998px&quot;
+    }
+  }), &quot;\n      &quot;, mdx(&quot;span&quot;, _extends({
+    parentName: &quot;span&quot;
+  }, {
+    &quot;className&quot;: &quot;gatsby-resp-image-background-image&quot;,
+    &quot;style&quot;: {
+      &quot;paddingBottom&quot;: &quot;112.20000000000002%&quot;,
+      &quot;position&quot;: &quot;relative&quot;,
+      &quot;bottom&quot;: &quot;0&quot;,
+      &quot;left&quot;: &quot;0&quot;,
+      &quot;backgroundImage&quot;: &quot;url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAWABQDASIAAhEBAxEB/8QAGAABAAMBAAAAAAAAAAAAAAAAAAIDBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABqs504bEA59ZRoFH/xAAaEAACAwEBAAAAAAAAAAAAAAABAgADERMS/9oACAEBAAEFAlCgMlc57NJbnZFSzK28stwriWaP/8QAFhEAAwAAAAAAAAAAAAAAAAAAABAR/9oACAEDAQE/AXT/xAAXEQEBAQEAAAAAAAAAAAAAAAABABAR/9oACAECAQE/AeYwX//EAB4QAAEEAQUAAAAAAAAAAAAAAAABEBEhQQISMZHB/9oACAEBAAY/Ar0Gezlp9LNymbWW/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFRkXGBwf/aAAgBAQABPyGgk0ubeYIWvSQ5U7ltTldXFRya3AMD3NqUJqXt3KFfZsVfJP/aAAwDAQACAAMAAAAQyOcC/8QAGBEBAQADAAAAAAAAAAAAAAAAAAERIVH/2gAIAQMBAT8Qa4lWsv/EABkRAAMAAwAAAAAAAAAAAAAAAAABESFRcf/aAAgBAgEBPxDoj2JkRD//xAAeEAEBAAICAgMAAAAAAAAAAAABEQAhMWFRcUGBkf/aAAgBAQABPxC1iDWeXyZAgTm49bMoRlQGmfWMaC1ibX3haA8VnveDytadc5sLIt8/mA63nBqT2c2YFYhYt895/9k=&apos;)&quot;,
+      &quot;backgroundSize&quot;: &quot;cover&quot;,
+      &quot;display&quot;: &quot;block&quot;
+    }
+  })), &quot;\n  &quot;, mdx(&quot;picture&quot;, {
+    parentName: &quot;span&quot;
+  }, &quot;\n        &quot;, mdx(&quot;source&quot;, _extends({
+    parentName: &quot;picture&quot;
+  }, {
+    &quot;srcSet&quot;: [&quot;/static/6562d17cf1a79afe571510c50e53cbad/a3bc4/kitchen.webp 2500w&quot;, &quot;/static/6562d17cf1a79afe571510c50e53cbad/03fef/kitchen.webp 2998w&quot;],
+    &quot;sizes&quot;: &quot;(max-width: 2998px) 100vw, 2998px&quot;,
+    &quot;type&quot;: &quot;image/webp&quot;
+  })), &quot;\n        &quot;, mdx(&quot;source&quot;, _extends({
+    parentName: &quot;picture&quot;
+  }, {
+    &quot;srcSet&quot;: [&quot;/static/6562d17cf1a79afe571510c50e53cbad/44ecf/kitchen.jpg 2500w&quot;, &quot;/static/6562d17cf1a79afe571510c50e53cbad/76f99/kitchen.jpg 2998w&quot;],
+    &quot;sizes&quot;: &quot;(max-width: 2998px) 100vw, 2998px&quot;,
+    &quot;type&quot;: &quot;image/jpeg&quot;
+  })), &quot;\n        &quot;, mdx(&quot;img&quot;, _extends({
+    parentName: &quot;picture&quot;
+  }, {
+    &quot;className&quot;: &quot;gatsby-resp-image-image&quot;,
+    &quot;src&quot;: &quot;/static/6562d17cf1a79afe571510c50e53cbad/76f99/kitchen.jpg&quot;,
+    &quot;alt&quot;: &quot;The bar and the kitchen at The Old Lady&quot;,
+    &quot;title&quot;: &quot;The bar and the kitchen at The Old Lady&quot;,
+    &quot;loading&quot;: &quot;lazy&quot;,
+    &quot;style&quot;: {
+      &quot;width&quot;: &quot;100%&quot;,
+      &quot;height&quot;: &quot;100%&quot;,
+      &quot;margin&quot;: &quot;0&quot;,
+      &quot;verticalAlign&quot;: &quot;middle&quot;,
+      &quot;position&quot;: &quot;absolute&quot;,
+      &quot;top&quot;: &quot;0&quot;,
+      &quot;left&quot;: &quot;0&quot;
+    }
+  })), &quot;\n      &quot;), &quot;\n    &quot;)), mdx(&quot;p&quot;, null, &quot;When looking through the  menu, you can easily see that eggs are a prominent item there, featured in a few different styles of Eggs Benedict, scrambled eggs and omelettes. You can also find some of the usual international brunch dishes consisting of bread, butter, jam, cold cuts and again eggs. For a brunch that is more on the sweet side, you can order yourself some french toast, waffles or a portion of \u201Cbuhti\u201D (a typical Bulgarian weekend meal). For the later hours of the day, there\u2019s also  sandwiches and burgers.&quot;), mdx(&quot;p&quot;, null, &quot;We ordered a cappuccino and a flat white coffee. I was pleasantly surprised to see that they use \u201CDabov\u201D coffee as it is one of my favorite local brands. During our visit, we picked \u201CItalian breakfast\u201D for me, Eggs Benedict for Nadia and the \u201Cbuhti made according to grandma\u2019s recipe\u201D. After a long wait (enough for me to drink my whole coffee), the food was served. The \u201CItalian breakfast\u201D portion did not impress with its size and the taste was the regular that you would expect from a few slices of italian ham, jam and scrambled eggs. The Eggs Benedict did indeed look better - they had colourful ingredients and smooth Hollandaise sauce, although the poached eggs were a little overcooked according to Nadia. The \u201Cbuhti\u201D were fried perfectly and we both liked them. &quot;), mdx(&quot;div&quot;, {
+    &quot;className&quot;: &quot;Image__Small&quot;
+  }, &quot;\n  &quot;, mdx(&quot;span&quot;, _extends({
+    parentName: &quot;div&quot;
+  }, {
+    &quot;className&quot;: &quot;gatsby-resp-image-wrapper&quot;,
+    &quot;style&quot;: {
+      &quot;position&quot;: &quot;relative&quot;,
+      &quot;display&quot;: &quot;block&quot;,
+      &quot;marginLeft&quot;: &quot;auto&quot;,
+      &quot;marginRight&quot;: &quot;auto&quot;,
+      &quot;maxWidth&quot;: &quot;2000px&quot;
+    }
+  }), &quot;\n      &quot;, mdx(&quot;span&quot;, _extends({
+    parentName: &quot;span&quot;
+  }, {
+    &quot;className&quot;: &quot;gatsby-resp-image-background-image&quot;,
+    &quot;style&quot;: {
+      &quot;paddingBottom&quot;: &quot;80%&quot;,
+      &quot;position&quot;: &quot;relative&quot;,
+      &quot;bottom&quot;: &quot;0&quot;,
+      &quot;left&quot;: &quot;0&quot;,
+      &quot;backgroundImage&quot;: &quot;url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAQCAYAAAAWGF8bAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADzUlEQVQ4y4WUa0zbVRjG+8mvRo3B8MWIougg4iZhroOJyDrmxAAjSLgYbiEYZbpsOpHrhsNlxohssIBzyCYikk1gTGCzEEuhw1G6jpb7ZQVa7lBsubTQn/234ZIlxjd5c3JyTp7zPs/7vEdkMc8zO63jh7IicvPzOJWVwy8/XaBGMUxelRpVlxKVSoVSqUSj0dDb24tCoWBoaAghbDbbVgoh2phSkZ6egJf4CVJzAglOCMXbX0ziR8f4+kY3HUo1f3fcpa2tjc7OTrRaLXV1dbS2ygQ4rFarPS1sbGw4AZukjXi5u3BY4kphfRxNrUcpzNvPYf+XKSzM4+GYjkmDAb1ez4TevhomMZuXWVg0sby8ys6w2TYQ5Z8/jdjHhY+Pe1HRfIIH8kCar73OO/s8Efv7Mj09zdjYGN0aLQ+HtNhWl7jfpUAmreRSSQEn07M5czrDfq52Vnix5Dvei/Qg+fOXiEzZQ22RG6r6I7jv3oMk5JDjkqDbwMAga+ZFWv+6RdYXYVy/kkxS1C48PB4nKyONRcOAE7BFJiMm7QA+Ea6EJkgYaE/i+zN7EfuJ+VN2B5PZvEXJYKeenRtPanIA8fHBPPjZj/nqF8n9MpbF2TEn4GCvmp72mySmpBCdmMyPpTlcLMjh9+vltEhrsVjXWV+3Oi4PDvYQHODNG6+9wDPPP4vr04+RHfcqYeEB6CcnnICPiopte7/ZuU1LzEzpeD82jIQgX5JC/HjL25PofXvJ+OxDrKYprOs2RMPDw8hkrQ5LrKysMDs/x9qKkRn9EMr7KmZmDKxbzFhWTczY/dpYX8nJKAlZsUHEhAUTFx3OiW9KUdxTMTVpQCR0Ua1WM9Dfb6dmo0dzl+KirwiOCCUs7ihV5edob65iTqdielLHhE5L30A3Fb9e5fJv1Wh6VZQ1dSNVjWO1Pyqam5tjdHSUEXulExN6NN1dHHxXgttTLhzZ70nV2XBKvv2Uvv5uFhYWqa27iVTajE43hkIup03ehrzlDtLbDRiNS9uAg8Io2bWqvfUHvm+/yW4PN45HiWm48AE3CmKoqb7i0LGvr5d+Oxth9AS5HDkyinHpH4fWIqPR6LCDMAkmk4na+np8JAf5JOkA5ZnB3C5O4VTqIcquljoABQCdTsfIyAjj4+Nb+61Z3tFj7nV20SFvJCYpksCQIDJjXuFYxC7cn3uSyvIS1tYsDpPPzs7a6S8gsBN6MD8/bz9bcwJu/xZOi1hWFlDJKii+fInM/HzOns/nXGYayoYah6MEFv8VDsqbpQqr4LsNG/8bO7+sR7+vfwFUEwGMhITEOwAAAABJRU5ErkJggg==&apos;)&quot;,
+      &quot;backgroundSize&quot;: &quot;cover&quot;,
+      &quot;display&quot;: &quot;block&quot;
+    }
+  })), &quot;\n  &quot;, mdx(&quot;picture&quot;, {
+    parentName: &quot;span&quot;
+  }, &quot;\n        &quot;, mdx(&quot;source&quot;, _extends({
+    parentName: &quot;picture&quot;
+  }, {
+    &quot;srcSet&quot;: [&quot;/static/ef821685e05b897e365644498f8e71db/56b60/food-items.webp 2000w&quot;],
+    &quot;sizes&quot;: &quot;(max-width: 2000px) 100vw, 2000px&quot;,
+    &quot;type&quot;: &quot;image/webp&quot;
+  })), &quot;\n        &quot;, mdx(&quot;source&quot;, _extends({
+    parentName: &quot;picture&quot;
+  }, {
+    &quot;srcSet&quot;: [&quot;/static/ef821685e05b897e365644498f8e71db/99e71/food-items.png 2000w&quot;],
+    &quot;sizes&quot;: &quot;(max-width: 2000px) 100vw, 2000px&quot;,
+    &quot;type&quot;: &quot;image/png&quot;
+  })), &quot;\n        &quot;, mdx(&quot;img&quot;, _extends({
+    parentName: &quot;picture&quot;
+  }, {
+    &quot;className&quot;: &quot;gatsby-resp-image-image&quot;,
+    &quot;src&quot;: &quot;/static/ef821685e05b897e365644498f8e71db/99e71/food-items.png&quot;,
+    &quot;alt&quot;: &quot;Italian breakfast, Eggs Benedict and Buhti at The Old Lady&quot;,
+    &quot;title&quot;: &quot;Italian breakfast, Eggs Benedict and Buhti at The Old Lady&quot;,
+    &quot;loading&quot;: &quot;lazy&quot;,
+    &quot;style&quot;: {
+      &quot;width&quot;: &quot;100%&quot;,
+      &quot;height&quot;: &quot;100%&quot;,
+      &quot;margin&quot;: &quot;0&quot;,
+      &quot;verticalAlign&quot;: &quot;middle&quot;,
+      &quot;position&quot;: &quot;absolute&quot;,
+      &quot;top&quot;: &quot;0&quot;,
+      &quot;left&quot;: &quot;0&quot;
+    }
+  })), &quot;\n      &quot;), &quot;\n    &quot;)), mdx(&quot;p&quot;, null, &quot;Overall, the experience and the food at The Old Lady was not as good as we expected. The prices were high for the type of dishes offered and the taste didn\u2019t add up to them quite well. Although our first impressions of the place are not so good, I think that The Old Lady deserves a second visit, hopefully with a better experience. &quot;), mdx(&quot;p&quot;, null, mdx(&quot;a&quot;, _extends({
+    parentName: &quot;p&quot;
+  }, {
+    &quot;href&quot;: &quot;https://goo.gl/maps/sEN8enhAKeEDxfVV6&quot;,
+    &quot;target&quot;: &quot;_blank&quot;,
+    &quot;rel&quot;: &quot;noreferrer&quot;
+  }), &quot;Click to find The Old Lady on Google Maps.&quot;)));
+}
+;
+MDXContent.isMDXComponent = true;</content:encoded></item><item><title><![CDATA[Coco-inspired Dinner in Takoteka, Sofia]]></title><description><![CDATA[Hidden behind the Bilkova bar, the outsides of Takoteka show no signs of what expects you inside. If you’ve enjoyed the Disney movie Coco (2017), then you will definitely like the atmosphere in Takoteka.]]></description><link>https://serving4two.com/coco-inspired-takoteka-dinner-sofia</link><guid isPermaLink="false">https://serving4two.com/coco-inspired-takoteka-dinner-sofia</guid><dc:creator><![CDATA[Nadezhda Yankulska, Dimitar Kalinkov]]></dc:creator><pubDate>Tue, 05 May 2020 00:00:00 GMT</pubDate><content:encoded>function _extends() { _extends = Object.assign || function (target) { for (var i = 1; i &lt; arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; }; return _extends.apply(this, arguments); }
 
 function _objectWithoutProperties(source, excluded) { if (source == null) return {}; var target = _objectWithoutPropertiesLoose(source, excluded); var key, i; if (Object.getOwnPropertySymbols) { var sourceSymbolKeys = Object.getOwnPropertySymbols(source); for (i = 0; i &lt; sourceSymbolKeys.length; i++) { key = sourceSymbolKeys[i]; if (excluded.indexOf(key) &gt;= 0) continue; if (!Object.prototype.propertyIsEnumerable.call(source, key)) continue; target[key] = source[key]; } } return target; }
 
